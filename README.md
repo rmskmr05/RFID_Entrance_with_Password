@@ -7,4 +7,5 @@
   <li>EM18-RFID tag and reader</li>
   <li>AVR ATMEGA16 Microcontroller</li>
   <li>4x4 Keyboard to Enter password</li>
+  <li>Sensors to count the vehicles</li>
 </ul>
