@@ -1,8 +1,5 @@
 /*
- * tollPlaza.cpp
- *
  * Created: 19-08-2019 15:51:08
- * Author : Bhavik
  */ 
 
 #include <avr/io.h>
@@ -77,7 +74,6 @@ int getPassword(){
 				lcd.print(k);
 				if (n>=3){
 					return password;
-					n=0;
 				}
 			}
 		}
