@@ -1,8 +1,10 @@
 # RFID_Entrance_with_Password
-After matching the registered Unique Id and provided password by user, entrance is allowed 
+<h2>After matching the registered Unique Id and provided password by user, entrance is allowed</h2>
 
-Hardware Used
-  -A Display for user interface (LCD16x2)
-  -EM18-RFID tag and reader
-  -AVR ATMEGA16 Microcontroller
-  -4x4 Keyboard to Enter password
+<h3>Hardware Used</h3>
+<ul>
+  <li>A Display for user interface (LCD16x2)</li>
+  <li>EM18-RFID tag and reader</li>
+  <li>AVR ATMEGA16 Microcontroller</li>
+  <li>4x4 Keyboard to Enter password</li>
+</ul>
